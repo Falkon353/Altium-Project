@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Altium-Project", "Altium-Project\Altium-Project.cproj", "{B9650B77-5BD3-4AB4-B831-63A07FBCD28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9650B77-5BD3-4AB4-B831-63A07FBCD28A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B9650B77-5BD3-4AB4-B831-63A07FBCD28A}.Debug|AVR.Build.0 = Debug|AVR
+		{B9650B77-5BD3-4AB4-B831-63A07FBCD28A}.Release|AVR.ActiveCfg = Release|AVR
+		{B9650B77-5BD3-4AB4-B831-63A07FBCD28A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
